@@ -1,3 +1,9 @@
-# Welcome to my blog
+# Welcome to my site
 
-I'm glad you are here. I plan to talk about ...
+## This is Header 2
+
+### And a Subheader with options
+* My __first__ item
+* My **Second** Item
+
+
