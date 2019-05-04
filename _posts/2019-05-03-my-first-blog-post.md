@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2019-05-03
+---
+
 # Hey There!
 
 This is a test of the pages functionality. Honestly, it's a bit too much like just Markdown conversion to HTML
